@@ -1,0 +1,48 @@
+#8.1 
+demo.df <- read.csv("demonstrations.csv")
+
+#8.2
+nrow(demo.df)
+#There are 75 observations in the data set
+
+#8.3 
+ft.press <- data.frame(table(demo.df $press))
+ft.press $percentage <- round(prop.table(ft.press $Freq) * 100, 2)
+colnames(ft.press)[colnames(ft.press) == "Var1"] <- "Press type"
+ft.press
+
+#8.4
+#a. 
+summary(demo.df $turnout)
+
+#b.. 
+
+b <- ggplot(demo.df, aes(x = turnout)) + geom_histogram()
+b <- b + xlab("Average Turnout") + ylab("Number of countries")
+b
+
+#8.5
+
+t.test(turnout ~ compvote, data = demo.df, var.equal = TRUE)
+
+#a.
+#The average turnout in countries with compulsory voting is 82.80%
+
+#b.
+#The average turnout in countries without compulsory voting is 67.01667%
+
+#c.
+# I would tell them that at a basic level we have proved that there is a difference in turnout when voting is compulsory vs non.
+# I would also tell him that a p value result less than 0.05 shows that there is evidence that the null hypothesis should be rejected.
+# Since we have a p-value of 0.0003486, far lower than 0.05, there is strong evidence in support of our alternative hypothesis, that compulsory voting affects voting turnout.
+
+#8.6.
+
+g <- ggplot(demo.df, aes(x= press, y= turnout)) + geom_boxplot()
+g <- g + xlab("Type of press") + ylab("Percentage of election turnout")
+g
+
+# From this plot, we can see that countries with state controlled press have the both lowest turnout and the lowest average turnout.
+# We can also see that countries with controlled but not fully controlled press have the highest minimum turnout.
+# Countries with free press have the highest average turnout and the highest maximum turnout.
+# Countries with state controlled press have the highest spread of voter turnout when compared to countries with different types of press.
