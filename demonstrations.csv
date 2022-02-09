@@ -1,0 +1,76 @@
+nation,demo,pop,press,unemploy,inflatio,union,war,literacy,turnout,parcomp,enpp,sizegovt,elecsys,compvote
+Argentina,1,36738,controlled but not fully,12,1,25,No conflict,good,78,1,2,0,pr,cv
+Australia,1,18784,Free press,8,1,29,No conflict,good,95,1,3,3,plurality,cv
+Austria,0,8139,Free press,7,1,37,No conflict,good,80,4,4,6,pr,no cv
+Belarus,1,10402,state controlled,2,182,96,No conflict,good,61,2,1,10,plurality,no cv
+Belgium,1,10182,Free press,12,1,38,No conflict,good,91,1,10,4,pr,cv
+Bolivia,7,7983,controlled but not fully,11,4,16,No conflict,fair,71,2,7,6,pr,cv
+Botswana,0,1464,free but limited ownership,30,9,12,No conflict,poor,77,4,2,6,plurality,no cv
+Brazil,1,171853,free but limited ownership,9,2,32,No conflict,fair,79,3,8,4,pr,cv
+Bulgaria,1,8195,controlled but not fully,12,1,51,No conflict,good,59,2,5,10,pr,no cv
+Canada,1,31006,Free press,8,1,31,No conflict,good,67,2,5,2,plurality,no cv
+Chile,2,14974,free but limited ownership,6,5,16,No conflict,good,87,3,7,3,pr,cv
+Colombia,4,39309,state controlled,16,17,7,Conflict,good,45,4,2,6,pr,no cv
+Costa Rica,0,3674,Free press,6,12,13,No conflict,good,70,2,4,3,pr,no cv
+Czech,0,10281,Free press,7,11,36,No conflict,good,74,2,5,4,pr,no cv
+Denmark,1,5357,Free press,7,2,68,No conflict,good,86,3,7,3,pr,no cv
+Ecuador,5,12562,controlled but not fully,12,43,10,No conflict,good,47,1,5,6,semi-pr,no cv
+Estonia,1,1409,Free press,10,7,26,No conflict,good,57,2,7,6,pr,no cv
+Finland,1,5158,Free press,12,2,60,No conflict,good,65,3,7,4,pr,no cv
+France,2,58978,free but limited ownership,12,1,6,No conflict,good,68,2,3,6,plurality,no cv
+Germany,1,82087,Free press,11,1,30,No conflict,good,82,3,6,4,pr,no cv
+Greece,1,10707,free but limited ownership,10,4,15,No conflict,good,76,3,3,6,pr,cv
+Guatemala,3,12336,state controlled,5,6,4,No conflict,poor,40,4,3,2,semi-pr,no cv
+Honduras,5,5997,controlled but not fully,6,15,5,No conflict,poor,72,3,3,4,semi-pr,no cv
+Hungary,0,10186,free but limited ownership,11,14,53,No conflict,good,57,3,6,6,pr,no cv
+Iceland,1,273,Free press,3,2,71,No conflict,good,84,4,5,3,pr,no cv
+India,3,1000849,controlled but not fully,4,14,5,Conflict,poor,62,2,6,8,plurality,no cv
+Indonesia,4,216108,state controlled,18,77,3,Conflict,fair,89,4,5,6,pr,no cv
+Ireland,1,3633,free but limited ownership,8,2,36,No conflict,good,66,3,3,0,pr,no cv
+Israel,4,5750,free but limited ownership,9,5,23,Conflict,good,79,2,11,8,pr,no cv
+Italy,1,56735,free but limited ownership,13,2,31,No conflict,good,83,4,9,4,pr,cv
+Ivory Coast,3,15818,state controlled,13,6,13,No conflict,poor,32,2,2,8,plurality,no cv
+Jamaica,3,2652,Free press,25,21,26,No conflict,fair,65,2,2,4,plurality,no cv
+Japan,0,126182,Free press,4,1,19,No conflict,good,59,1,6,4,semi-pr,no cv
+Jordan,2,4561,state controlled,28,4,28,No conflict,fair,47,0,2,10,semi-pr,no cv
+Kenya,5,28809,state controlled,50,3,17,No conflict,fair,65,1,5,8,plurality,no cv
+Latvia,2,2354,free but limited ownership,9,5,30,No conflict,good,72,2,6,6,pr,no cv
+Luxembourg,1,429,Free press,3,1,40,No conflict,good,87,5,5,2,pr,cv
+Malawi,6,10000,controlled but not fully,34,27,15,No conflict,poor,92,5,3,10,plurality,no cv
+Malaysia,2,21376,state controlled,3,5,12,No conflict,fair,69,3,2,6,plurality,no cv
+Mauritius,0,1182,Free press,2,7,26,No conflict,fair,81,2,4,4,plurality,no cv
+Mexico,1,100294,state controlled,3,19,31,No conflict,fair,58,3,3,4,pr,cv
+Morocco,1,29662,state controlled,19,3,5,No conflict,poor,58,2,8,10,pr,no cv
+Netherlands,1,15808,Free press,4,2,22,No conflict,good,73,3,6,4,pr,no cv
+New Zealand,0,3662,Free press,8,1,23,No conflict,good,85,4,6,0,pr,no cv
+Nicaragua,4,4717,controlled but not fully,14,16,23,No conflict,poor,77,2,3,10,pr,no cv
+Nigeria,3,113829,state controlled,28,15,17,No conflict,poor,85,3,3,10,plurality,no cv
+Norway,1,4439,Free press,3,2,52,No conflict,good,78,4,7,6,pr,no cv
+Pakistan,3,138123,state controlled,7,8,6,Conflict,poor,35,2,2,8,plurality,no cv
+Paraguay,2,5434,state controlled,8,15,9,No conflict,fair,80,4,3,3,pr,cv
+Peru,2,26625,state controlled,8,7,8,No conflict,fair,82,4,7,2,pr,cv
+Philippines,4,79346,free but limited ownership,10,10,23,Conflict,good,79,4,5,2,semi-pr,no cv
+Poland,1,38609,free but limited ownership,10,11,27,No conflict,good,48,2,4,8,pr,no cv
+Portugal,0,9918,Free press,5,3,19,No conflict,fair,61,2,4,4,pr,no cv
+Romania,1,22334,controlled but not fully,9,41,41,No conflict,good,76,3,7,10,pr,no cv
+Russia,1,146394,state controlled,12,84,75,No conflict,good,60,2,6,6,semi-pr,no cv
+S Africa,1,46885,free but limited ownership,8,8,9,No conflict,good,64,2,3,4,plurality,no cv
+Senegal,3,10052,free but limited ownership,48,2,22,Conflict,poor,39,3,3,4,semi-pr,no cv
+Singapore,0,3532,state controlled,5,-1,14,No conflict,fair,96,3,1,2,plurality,cv
+Slovak,1,5396,controlled but not fully,14,7,52,No conflict,good,84,3,6,10,pr,no cv
+South Korea,1,43426,free but limited ownership,30,9,22,No conflict,fair,89,3,5,4,pr,no cv
+Spain,1,39168,Free press,20,2,11,No conflict,good,78,3,3,6,pr,no cv
+Sweden,0,8911,Free press,6,2,77,No conflict,good,81,2,7,4,pr,no cv
+Switzerland,1,7275,Free press,4,0,20,No conflict,good,43,1,6,2,pr,no cv
+Taiwan,1,22113,free but limited ownership,3,2,28,No conflict,good,76,3,3,8,semi-pr,no cv
+Tanzania,3,31271,controlled but not fully,5,14,17,No conflict,poor,73,3,3,8,plurality,no cv
+Thailand,1,60609,free but limited ownership,5,4,3,No conflict,good,62,4,6,3,plurality,no cv
+Tunisia,2,9514,state controlled,16,3,10,No conflict,poor,92,5,4,8,semi-pr,no cv
+Turkey,2,65599,state controlled,10,70,22,Conflict,fair,87,3,5,4,pr,cv
+UK,1,59113,free but limited ownership,8,3,26,No conflict,good,71,3,3,2,plurality,no cv
+USA,1,272640,Free press,5,2,13,No conflict,good,52,1,2,2,plurality,no cv
+Ukraine,1,49811,controlled but not fully,4,20,100,No conflict,good,71,3,8,10,semi-pr,no cv
+Uruguay,0,3309,free but limited ownership,11,9,12,No conflict,good,92,4,4,4,pr,cv
+Venezuela,1,23203,free but limited ownership,12,30,15,No conflict,good,53,3,4,8,pr,no cv
+Zambia,0,9664,state controlled,22,44,13,No conflict,poor,78,2,2,10,plurality,no cv
+Zimbabwe,3,11163,state controlled,45,32,14,No conflict,fair,31,4,2,8,plurality,no cv
