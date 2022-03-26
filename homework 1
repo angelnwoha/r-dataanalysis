@@ -1,11 +1,11 @@
-#8.1 
+#Here I am reading the csv file into R and assigning it a name
 demo.df <- read.csv("demonstrations.csv")
 
-#8.2
+#My task was to check how many observations were in the data set
 nrow(demo.df)
 #There are 75 observations in the data set
 
-#8.3 
+
 ft.press <- data.frame(table(demo.df $press))
 ft.press $percentage <- round(prop.table(ft.press $Freq) * 100, 2)
 colnames(ft.press)[colnames(ft.press) == "Var1"] <- "Press type"
